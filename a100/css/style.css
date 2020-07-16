@@ -640,6 +640,16 @@ body {
   }
 }
 
+@media screen and (max-device-width: 1024px) and (orientation: landscape) {
+  .header-banner {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+    -ms-grid-rows: 86px (180px)[4];
+        grid-template-rows: 86px repeat(4, 180px);
+    grid-gap: 8px;
+  }
+}
+
 @media only screen and (min-device-width: 320px) and (max-device-width: 667px) {
   .header-banner {
     -ms-grid-columns: 1fr;
