@@ -1,58 +1,58 @@
 //ROBOTO
 @font-face {
     font-family: 'Roboto';
-    src: local('Roboto Light'), local('Roboto-Light'),  url('../fonts/Roboto/RobotoLight.ttf') format('truetype');
+    src: local('Roboto Light'), local('Roboto-Light'),  url('../fonts/Roboto/RobotoLight.ttf') format('truetype'), url('../fonts/Roboto/RobotoLight.woff') format('woff');
     font-weight: 300;
     font-style: normal;
 }
 @font-face {
     font-family: 'Roboto';
-    src: local('Roboto Medium'), local('Roboto-Medium'),  url('../fonts/Roboto/RobotoMedium.ttf') format('truetype');
+    src: local('Roboto Medium'), local('Roboto-Medium'),  url('../fonts/Roboto/RobotoMedium.ttf') format('truetype'), url('../fonts/Roboto/RobotoMedium.woff') format('woff') ;
     font-weight: 500;
     font-style: normal;
 }
 @font-face {
     font-family: 'Roboto';
-    src: local('Roboto Regular'), local('Roboto-Regular'),  url('../fonts/Roboto/RobotoRegular.ttf') format('truetype');
+    src: local('Roboto Regular'), local('Roboto-Regular'),  url('../fonts/Roboto/RobotoRegular.ttf') format('truetype'), url('../fonts/Roboto/RobotoRegular.woff') format('woff');
     font-weight: 300;
     font-style: normal;
 }
 //OPEN SANS
 @font-face {
     font-family: 'Open Sans';
-    src: local('Open Sans Light'), local('OpenSans-Light'), url('../fonts/OpenSans/OpenSansLight.ttf') format('truetype');
+    src: local('Open Sans Light'), local('OpenSans-Light'), url('../fonts/OpenSans/OpenSansLight.ttf') format('truetype'), url('../fonts/OpenSans/OpenSansLight.woff') format('woff');
     font-weight: 300;
     font-style: normal;
 }
 //PROXIMA NOVA
 @font-face {
     font-family: 'Proxima Nova';
-    src: local('Proxima Nova Light'), local('ProximaNova-Light'), url('../fonts/ProximaNova/ProximaNovaLight.ttf') format('truetype');
+    src: local('Proxima Nova Light'), local('ProximaNova-Light'), url('../fonts/ProximaNova/ProximaNovaLight.ttf') format('truetype'), url('../fonts/ProximaNova/ProximaNovaLight.woff') format('woff');
     font-weight: 300;
     font-style: normal;
 }
 @font-face {
     font-family: 'Proxima Nova';
-    src: local('Proxima Nova Regular'), local('ProximaNova-Regular'), url('../fonts/ProximaNova/ProximaNovaRegular.ttf') format('truetype');
+    src: local('Proxima Nova Regular'), local('ProximaNova-Regular'), url('../fonts/ProximaNova/ProximaNovaRegular.ttf') format('truetype'), url('../fonts/ProximaNova/ProximaNovaRegular.woff') format('woff');
     font-weight: 300;
     font-style: normal;
 }
 @font-face {
     font-family: 'Proxima Nova';
-    src: local('Proxima Nova Semibold'), local('ProximaNova-Semibold'), url('../fonts/ProximaNova/ProximaNovaSemibold.ttf') format('truetype');
+    src: local('Proxima Nova Semibold'), local('ProximaNova-Semibold'), url('../fonts/ProximaNova/ProximaNovaSemibold.ttf') format('truetype'), url('../fonts/ProximaNova/ProximaNovaSemibold.woff') format('woff');
     font-weight: 300;
     font-style: normal;
 }
 //AKTIV GROTESK CORP
 @font-face {
     font-family: 'Aktiv Grotesk Corp';
-    src: local('Aktiv Grotesk Corp Light'), local('AktivGroteskCorp-Light'), url('../fonts/AktivGroteskCorp/AktivGroteskCorpLight.ttf') format('truetype');
+    src: local('Aktiv Grotesk Corp Light'), local('AktivGroteskCorp-Light'), url('../fonts/AktivGroteskCorp/AktivGroteskCorpLight.ttf') format('truetype'), url('../fonts/AktivGroteskCorp/AktivGroteskCorpLight.woff') format('woff');
     font-weight: 300;
     font-style: normal;
 }
 @font-face {
     font-family: 'Aktiv Grotesk Corp';
-    src: local('Aktiv Grotesk Corp Regular'), local('AktivGroteskCorp-Regular'), url('../fonts/AktivGroteskCorp/AktivGroteskCorpRegular.ttf') format('truetype');
+    src: local('Aktiv Grotesk Corp Regular'), local('AktivGroteskCorp-Regular'), url('../fonts/AktivGroteskCorp/AktivGroteskCorpRegular.ttf') format('truetype'), url('../fonts/AktivGroteskCorp/AktivGroteskCorpRegular.woff') format('woff');
     font-weight: 500;
     font-style: normal;
 }

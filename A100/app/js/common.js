@@ -7,20 +7,20 @@ for (let i = 0; i < acc.length; i++) {
         target.classList.toggle("contact-item-form-accordion-btn-active");
         let panel = this.parentNode.nextElementSibling;
         if (panel.style.visibility === "visible") {
-            panel.style.visibility = "hidden";
+           // panel.style.visibility = "hidden";
             panel.style.opacity ="0" ;
             panel.style.width ="0";
             panel.style.height ="0" ;
-            panel.style.transitionDuration = "1s";   
-            panel.style.transitionProperty ="visibility"; 
+            //panel.style.transitionDuration = "1s";   
+            //panel.style.transitionProperty ="visibility"; 
         } else {
             //STYLES FOR ACTIVE PANEL
-            panel.style.visibility = "visible";
+            //panel.style.visibility = "visible";
             panel.style.opacity ="1" ;
             panel.style.width ="100%";
             panel.style.height ="100%" ;
-            panel.style.transitionDuration = "1s";   
-            panel.style.transitionProperty ="visibility";  
+            //panel.style.transitionDuration = "1s";   
+            //panel.style.transitionProperty ="visibility";  
                      
         }
     });
